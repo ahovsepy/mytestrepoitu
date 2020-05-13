@@ -20,5 +20,6 @@ public class ZooFactoryTest {
 		Assert.assertEquals(name, tiger.getName() );
 		Assert.assertEquals(country, tiger.getCountry());
 		Assert.assertEquals(i, tiger.getVoteriQanak());
+		// branch commit
 	}
 }
